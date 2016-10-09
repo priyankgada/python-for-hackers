@@ -11,7 +11,7 @@ https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
 1. Python For Hackers - Introduction - https://www.youtube.com/watch?v=HuRrvXF7bjE
 2. Python For Hackers - Attackers Machine - https://www.youtube.com/watch?v=BnzTBlp6Oo8
 3. Python For Hackers - Victim Machine - https://www.youtube.com/watch?v=ZOmOQAGHroM
-4. Python For Hackers - Reverse TCP Shell - 
+4. Python For Hackers - Reverse TCP Shell - https://www.youtube.com/watch?v=bR5C6ROQGwI
 
 ===============================================================
 
