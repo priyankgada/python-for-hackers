@@ -1,17 +1,19 @@
-# python-hello-world
-Python for Hackers - hello world - Priyank Gada
+# python-for-Hackers
+Python for Hackers - Priyank Gada
 
-This is the hello world program for my tutorial series
-
-Python for Hackers
+Python for Hackers - Tutorial Series can be found on youtube :
 
 https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
 
-You can find video tutorials here ...
+===============================================================
 
-https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
+#Project Files !!!
 
+Hello World Program : https://github.com/priyankgada/python-for-hackers/blob/master/hello.py
 
-Please subscribe
+================================================================
+
+Priyank Gada Youtube Channel :
 
 www.youtube.com/priyankgada
+
