@@ -20,6 +20,7 @@ https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
 
 1. Hello World Program : https://github.com/priyankgada/python-for-hackers/blob/master/hello.py
 2. Reverse TCP Shell - Server : https://github.com/priyankgada/python-for-hackers/blob/master/Reverse-TCP-Shell-Server.py
+3. Reverse TCP Shell - Client : https://github.com/priyankgada/python-for-hackers/blob/master/Reverse-TCP-Shell-Client.py
 
 
 ================================================================
