@@ -5,6 +5,16 @@ Python for Hackers - Priyank Gada
 Python for Hackers - Tutorial Series can be found on youtube :
 
 https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
+=============================================================
+#To Do List
+1. Data grabbing Shell
+2. Auto starting Shell
+3. Auto Replicating Shell
+4. Shell that kills antivirus
+5. Shell that spreads 
+6. HTTP Shell 
+
+More stuff coming soon.
 
 =============================================================
 #Video Tutorials 
