@@ -5,6 +5,7 @@ Python for Hackers - Priyank Gada
 Python for Hackers - Tutorial Series can be found on youtube :
 
 https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
+
 =============================================================
 #To Do List
 1. Data grabbing Shell
@@ -23,6 +24,7 @@ More stuff coming soon.
 3. Python For Hackers - Victim Machine - https://www.youtube.com/watch?v=ZOmOQAGHroM
 4. Python For Hackers - Reverse TCP Shell - https://www.youtube.com/watch?v=bR5C6ROQGwI
 5. Python For Hackers - Reverse TCP Shell Server - https://www.youtube.com/watch?v=QLkhkW6XKdA
+6. Python For Hackers - Reverse TCP Shell Client - https://www.youtube.com/watch?v=7M2G4YrkvD0
 
 ===============================================================
 
