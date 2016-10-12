@@ -47,11 +47,14 @@ More stuff coming soon.
 6. Virtual Box Official Page : https://goo.gl/cdofzp
 7. Windows 7 x32 ISO : https://goo.gl/CKRvNr
 8. Python 2.7.9 x86 MSI Setup : https://goo.gl/n1dpdb
+
 ====================================================================
+
 #Read This Before Starting
 
 1. Terms and Conditions - https://github.com/priyankgada/python-for-hackers/blob/master/Terms-and-conditions
 2. License - https://github.com/priyankgada/python-for-hackers/blob/master/license
+
 =====================================================================
 
 
