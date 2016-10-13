@@ -1,4 +1,8 @@
 
+#Funds needed
+
+https://www.indiegogo.com/projects/free-python-and-android-n-app-course-on-youtube/x/15207963#/
+
 # Python-for-Hackers
 Python for Hackers - Priyank Gada
 
