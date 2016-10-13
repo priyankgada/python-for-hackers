@@ -14,7 +14,7 @@ https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
 3. Shell that kills antivirus
 4. Shell that spreads 
 5. HTTP Shell 
-6. Keyllogetr
+6. Keyl Logger 
 
 More stuff coming soon.
 
@@ -37,7 +37,7 @@ More stuff coming soon.
 2. Reverse TCP Shell - Server : https://goo.gl/wnHe9O
 3. Reverse TCP Shell - Client : https://goo.gl/ebdSPI
 4. Data Downloading Reverse TCP Shell - Client : https://goo.gl/vJi0OK
-5. Data Downloading Reverse TCP Shell - Server : Under Construction.
+5. Data Downloading Reverse TCP Shell - Server : https://goo.gl/OYR9zo
 
 
 ================================================================
