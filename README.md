@@ -8,17 +8,19 @@ https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
 
 =============================================================
 #To Do List
-1. Data grabbing Shell
-2. Auto starting Shell
-3. Auto Replicating Shell
-4. Shell that kills antivirus
-5. Shell that spreads 
-6. HTTP Shell 
+
+1. Auto starting Shell
+2. Auto Replicating Shell
+3. Shell that kills antivirus
+4. Shell that spreads 
+5. HTTP Shell 
+6. Keyllogetr
 
 More stuff coming soon.
 
 =============================================================
 #Video Tutorials 
+
 1. Python For Hackers - Introduction - https://www.youtube.com/watch?v=HuRrvXF7bjE
 2. Python For Hackers - Attackers Machine - https://www.youtube.com/watch?v=BnzTBlp6Oo8
 3. Python For Hackers - Victim Machine - https://www.youtube.com/watch?v=ZOmOQAGHroM
@@ -31,9 +33,11 @@ More stuff coming soon.
 
 #Project Files !!!
 
-1. Hello World Program : https://github.com/priyankgada/python-for-hackers/blob/master/hello.py
-2. Reverse TCP Shell - Server : https://github.com/priyankgada/python-for-hackers/blob/master/Reverse-TCP-Shell-Server.py
-3. Reverse TCP Shell - Client : https://github.com/priyankgada/python-for-hackers/blob/master/Reverse-TCP-Shell-Client.py
+1. Hello World Program : https://goo.gl/GSZ7sj
+2. Reverse TCP Shell - Server : https://goo.gl/wnHe9O
+3. Reverse TCP Shell - Client : https://goo.gl/ebdSPI
+4. Data Downloading Reverse TCP Shell - Client : https://goo.gl/vJi0OK
+5. Data Downloading Reverse TCP Shell - Server : Under Construction.
 
 
 ================================================================
