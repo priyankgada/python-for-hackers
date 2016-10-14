@@ -11,14 +11,17 @@ Python for Hackers - Tutorial Series can be found on youtube :
 https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
 
 =============================================================
-#To Do List
+#Under Construction
 
-1. Auto starting Shell
-2. Auto Replicating Shell
-3. Shell that kills antivirus
-4. Shell that spreads 
-5. HTTP Shell 
-6. Keyl Logger 
+1. HTTP Reverse Shell
+2. Counter Measures
+3. DNS Updating Shell
+4. Port Scanners
+5. Keyloggers
+6. Main in the middle attack using python
+7. Phishing using Python
+8. Bypass Firewalls using Python
+9. Breaking Through Permissions
 
 More stuff coming soon.
 
