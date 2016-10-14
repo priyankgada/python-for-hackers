@@ -36,6 +36,9 @@ More stuff coming soon.
 6. Python For Hackers - Reverse TCP Shell Client - https://www.youtube.com/watch?v=7M2G4YrkvD0
 7. Python For Hackers - Reverse TCP Shell Testing - https://www.youtube.com/watch?v=Mci7TQrWm2I
 8. Python For Hackers - Data Downloading Reverse TCP shell - https://www.youtube.com/watch?v=rQ7NeGJx5Hc
+9. Python For Hackers - Reverse HTTP Shell Server - Under Editing
+10. Python For Hackers - Reverse HTTP Shell Client - Under Editing
+11. Python For Hackers - Reverse HTTP Shell Testing - Under Editing
 
 ===============================================================
 
