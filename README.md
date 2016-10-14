@@ -46,7 +46,8 @@ More stuff coming soon.
 3. Reverse TCP Shell - Client : https://goo.gl/ebdSPI
 4. Data Downloading Reverse TCP Shell - Client : https://goo.gl/vJi0OK
 5. Data Downloading Reverse TCP Shell - Server : https://goo.gl/OYR9zo
-
+6. Reverse HTTP Shell - Server : https://goo.gl/AW5yal
+7. Reverse HTTP Shell - Client : https://goo.gl/k7EVqc
 
 ================================================================
 #Download Links
