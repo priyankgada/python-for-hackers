@@ -4,7 +4,7 @@
 
 import BaseHTTPServer   # Used to make HTTP server 
 
-HOST_NAME = '10.10.10.100'   # Server IP
+HOST_NAME = '10.10.10.10'   # Server IP
 PORT_NUMBER = 80   # Port Number to listen from.
 
 
