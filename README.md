@@ -13,7 +13,7 @@ https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
 =============================================================
 #Under Construction
 
-1. HTTP Reverse Shell
+1. Python To EXE
 2. Counter Measures
 3. DNS Updating Shell
 4. Port Scanners
@@ -39,6 +39,7 @@ More stuff coming soon.
 9. Python For Hackers - Reverse HTTP Shell Server - https://www.youtube.com/watch?v=nPQ1MnU53vE
 10. Python For Hackers - Reverse HTTP Shell Client - https://www.youtube.com/watch?v=KazrF-RVDTA
 11. Python For Hackers - Reverse HTTP Shell Testing - https://www.youtube.com/watch?v=7ML0Ji2krGQ
+12. Python For Hackers - Data Downloading Reverse HTTP Shell 
 
 ===============================================================
 
@@ -51,6 +52,8 @@ More stuff coming soon.
 5. Data Downloading Reverse TCP Shell - Server : https://goo.gl/OYR9zo
 6. Reverse HTTP Shell - Server : https://goo.gl/AW5yal
 7. Reverse HTTP Shell - Client : https://goo.gl/k7EVqc
+8. Data Downloading Reverse HTTP Shell - Client: https://goo.gl/7DYnWu
+9. Data Downloading Reverse HTTP Shell - Server : https://goo.gl/EXaGAq
 
 ================================================================
 #Download Links
