@@ -39,7 +39,7 @@ More stuff coming soon.
 9. Python For Hackers - Reverse HTTP Shell Server - https://www.youtube.com/watch?v=nPQ1MnU53vE
 10. Python For Hackers - Reverse HTTP Shell Client - https://www.youtube.com/watch?v=KazrF-RVDTA
 11. Python For Hackers - Reverse HTTP Shell Testing - https://www.youtube.com/watch?v=7ML0Ji2krGQ
-12. Python For Hackers - Data Downloading Reverse HTTP Shell 
+12. Python For Hackers - Data Downloading Reverse HTTP Shell - https://www.youtube.com/watch?v=wvAL6yb3Zg4
 
 ===============================================================
 
