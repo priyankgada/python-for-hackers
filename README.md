@@ -40,6 +40,7 @@ More stuff coming soon.
 10. Python For Hackers - Reverse HTTP Shell Client - https://www.youtube.com/watch?v=KazrF-RVDTA
 11. Python For Hackers - Reverse HTTP Shell Testing - https://www.youtube.com/watch?v=7ML0Ji2krGQ
 12. Python For Hackers - Data Downloading Reverse HTTP Shell - https://www.youtube.com/watch?v=wvAL6yb3Zg4
+13. Python For Hackers - Basic Keylogger - https://www.youtube.com/watch?v=lfvNyOeglnk
 
 ===============================================================
 
@@ -54,6 +55,7 @@ More stuff coming soon.
 7. Reverse HTTP Shell - Client : https://goo.gl/k7EVqc
 8. Data Downloading Reverse HTTP Shell - Client: https://goo.gl/7DYnWu
 9. Data Downloading Reverse HTTP Shell - Server : https://goo.gl/EXaGAq
+10. Basic Keylogger : https://goo.gl/V4GXmJ
 
 ================================================================
 #Download Links
@@ -66,7 +68,9 @@ More stuff coming soon.
 6. Virtual Box Official Page : https://goo.gl/cdofzp
 7. Windows 7 x32 ISO : https://goo.gl/qWt8tA
 8. Python 2.7.9 x86 MSI Setup : https://goo.gl/n1dpdb
-9. Python Request Library : https://goo.gl/KZ9hDd
+9. Python Request Library / Module : https://goo.gl/KZ9hDd
+10. Python PyHook Library / Module : https://goo.gl/3asq4h
+11. Python Pywin32 Library / Module : https://goo.gl/zkGVIS
 
 ====================================================================
 
