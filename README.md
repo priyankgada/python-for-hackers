@@ -72,6 +72,7 @@ More stuff coming soon.
 9. Python Request Library / Module : https://goo.gl/KZ9hDd
 10. Python PyHook Library / Module : https://goo.gl/3asq4h
 11. Python Pywin32 Library / Module : https://goo.gl/zkGVIS
+12. Python Py2exe Library / Module : https://goo.gl/hbiJRU
 
 ====================================================================
 
