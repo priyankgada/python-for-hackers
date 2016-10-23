@@ -41,6 +41,7 @@ More stuff coming soon.
 11. Python For Hackers - Reverse HTTP Shell Testing - https://www.youtube.com/watch?v=7ML0Ji2krGQ
 12. Python For Hackers - Data Downloading Reverse HTTP Shell - https://www.youtube.com/watch?v=wvAL6yb3Zg4
 13. Python For Hackers - Basic Keylogger - https://www.youtube.com/watch?v=lfvNyOeglnk
+14. Python For Hackers - Standalone Executable - https://www.youtube.com/watch?v=4-k0bASClhg
 
 ===============================================================
 
@@ -73,7 +74,8 @@ More stuff coming soon.
 10. Python PyHook Library / Module : https://goo.gl/3asq4h
 11. Python Pywin32 Library / Module : https://goo.gl/zkGVIS
 12. Python Py2exe Library / Module : https://goo.gl/hbiJRU
-
+13. Python Pyinstaller ( with Documents - Which i used ) : https://goo.gl/sZDG5E
+14. Python Pyinstaller ( Python.org ) : https://goo.gl/96BsSc
 
 ========================================================================
 
