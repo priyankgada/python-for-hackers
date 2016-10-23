@@ -74,7 +74,21 @@ More stuff coming soon.
 11. Python Pywin32 Library / Module : https://goo.gl/zkGVIS
 12. Python Py2exe Library / Module : https://goo.gl/hbiJRU
 
-====================================================================
+
+========================================================================
+
+#Discount Coupons Udemy 
+
+1. The Complete Internet Security - Privacy - Volume 1 - https://goo.gl/uZOEr7
+2. The Complete Internet Security - Network - Volume 2  - https://goo.gl/rvWjWI
+3. The Complete Internet Security - Anonymous Browsing - Volume 3 - https://goo.gl/Cqnep0
+4. WiFi Hacking Penetration Testing from scratch - https://goo.gl/qc2b2V
+5. Learn Hacking / Penetration Testing Using Android from scratch - https://goo.gl/7gdmE9
+6. Learn cracking wi-fi passwords - https://goo.gl/CPJvNs
+7. Learn Practical Network Attack - https://goo.gl/Wl96f3
+8. Learn Ethical Hacking from Scratch - https://goo.gl/Pa0nNn
+
+===============================================================================
 
 #Read This Before Starting
 
