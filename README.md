@@ -89,6 +89,7 @@ More stuff coming soon.
 6. Learn cracking wi-fi passwords - https://goo.gl/CPJvNs
 7. Learn Practical Network Attack - https://goo.gl/Wl96f3
 8. Learn Ethical Hacking from Scratch - https://goo.gl/Pa0nNn
+9. Hacking Tutorial : Undetectable Payloads - https://goo.gl/rcXNpB
 
 ===============================================================================
 
