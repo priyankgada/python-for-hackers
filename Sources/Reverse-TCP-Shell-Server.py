@@ -5,7 +5,7 @@ import socket    # For Building TCP Connection -- AF_INET
 def connect():
     
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)    # We are creating a object S here.
-    s.bind(("10.10.10.100", 8080))                           # WE will define IP address and port number
+    s.bind(("10.10.10.10", 8080))                           # WE will define IP address and port number
     s.listen(1)                                             # Number of connections.
     
     print '[+] Listening for incoming TCP connection'
