@@ -68,7 +68,7 @@ More stuff coming soon.
 4. Kali Linux Official Page : https://goo.gl/hr8z6q
 5. Virtual Box Download Link : https://goo.gl/iEmDNG
 6. Virtual Box Official Page : https://goo.gl/cdofzp
-7. Windows 7 x32 ISO : https://goo.gl/qWt8tA
+7. Windows 7 x32 ISO : https://goo.gl/Tno4FP **********UPDATED 30-10-16
 8. Python 2.7.9 x86 MSI Setup : https://goo.gl/n1dpdb
 9. Python Request Library / Module : https://goo.gl/KZ9hDd
 10. Python PyHook Library / Module : https://goo.gl/3asq4h
