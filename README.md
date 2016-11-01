@@ -42,6 +42,8 @@ More stuff coming soon.
 12. Python For Hackers - Data Downloading Reverse HTTP Shell - https://www.youtube.com/watch?v=wvAL6yb3Zg4
 13. Python For Hackers - Basic Keylogger - https://www.youtube.com/watch?v=lfvNyOeglnk
 14. Python For Hackers - Standalone Executable - https://www.youtube.com/watch?v=4-k0bASClhg
+15. Python For Hackers - Email Bomber - https://www.youtube.com/watch?v=Clx0ptfy8NY
+16. Python For Hackers - Testing Email Bomber - https://www.youtube.com/watch?v=HoMCnF9rOmY
 
 ===============================================================
 
