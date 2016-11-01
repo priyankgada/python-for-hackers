@@ -13,15 +13,16 @@ https://www.youtube.com/playlist?list=PLQzKQEJTLWfyyDGV_CQbPGTJn5apS10uN
 =============================================================
 #Under Construction
 
-1. Python To EXE
+1. Python To EXE ✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
 2. Counter Measures
 3. DNS Updating Shell
 4. Port Scanners
-5. Keyloggers
+5. Keyloggers ✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
 6. Main in the middle attack using python
 7. Phishing using Python
 8. Bypass Firewalls using Python
 9. Breaking Through Permissions
+10. Email Bomber  ✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
 
 More stuff coming soon.
 
